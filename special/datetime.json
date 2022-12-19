@@ -1,0 +1,21 @@
+{
+"MO,": "Monday",
+"T,U": "Tuesday",
+"W,E": "Wednesday",
+"TH,": "Thursday",
+"FR,": "Friday",
+"SA,": "Saturday",
+"S,U": "Sunday",
+"NRA,": "January",
+"F,E": "February",
+"MA,": "March",
+"A,P": "April",
+"M,": "May",
+"NR,N": "June",
+"NR,L": "July",
+"A,U": "August",
+"S,E": "September",
+"O,K": "October",
+"NO,": "November",
+"D,E": "December"
+}

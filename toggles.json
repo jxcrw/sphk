@@ -1,0 +1,9 @@
+{
+"NR-)": "{PLOVER:TOGGLE_DICT:!main.json,!_ja/main.json,!_ja/base.json,!_ja/temp.json}{#control(alt(shift(super(quoteleft))))}",
+"MAT)": "{PLOVER:TOGGLE_DICT:!special/latex.json,!main.json,!special.json}",
+"DN-R)": "{PLOVER:TOGGLE_DICT:!main.json,!commands.json,!special.json}",
+"NR-P)": "{PLOVER:TOGGLE_DICT:!main.json,!commands.json,!special.json,!practice/practice_ja.json}",
+"FPAIN)": "{PLOVER:TOGGLE_DICT:!main.json,!commands.json,!special.json,!practice/practice_punctuation.json}",
+"MA*T)": "{PLOVER:TOGGLE_DICT:!main.json,!commands.json,!special.json,!practice/practice_math_engineering.json}",
+"KP-)": "{PLOVER:TOGGLE_DICT:!main.json,!do.json,!_spro/spro.json,!_spro/do.json}"
+}
