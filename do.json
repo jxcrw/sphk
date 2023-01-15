@@ -31,7 +31,7 @@
 "STNR/K": "{#escape}{PLOVER:SHELL:autohotkey.exe C:\\~\\dev\\superhi\\LaunchToggle.ahk \"\\(Crow\\) ahk_exe neovide.exe\" \"C:\\~\\dev\\superhi\\nvim\\crow.ahk\"}",
 "STNR/LY": "{#escape}{PLOVER:SHELL:autohotkey.exe C:\\~\\dev\\superhi\\LaunchToggle.ahk \"\\(idealOS\\) ahk_exe neovide.exe\" \"C:\\~\\dev\\superhi\\nvim\\idealOS.ahk\"}",
 "STNR/H": "{#escape}{PLOVER:SHELL:autohotkey.exe C:\\~\\dev\\superhi\\LaunchToggle.ahk \"\\(Superhi\\) ahk_exe neovide.exe\" \"C:\\~\\dev\\superhi\\nvim\\superhi.ahk\"}",
-"STNR/E": "{#escape}{PLOVER:SHELL:autohotkey.exe C:\\~\\dev\\superhi\\LaunchToggle.ahk \"\\(Neovim\\) ahk_exe neovide.exe\" \"C:\\~\\dev\\superhi\\nvim\\nvim.ahk\"}",
+"STNR/GW": "{#escape}{PLOVER:SHELL:autohotkey.exe C:\\~\\dev\\superhi\\LaunchToggle.ahk \"\\(Neovim\\) ahk_exe neovide.exe\" \"C:\\~\\dev\\superhi\\nvim\\nvim.ahk\"}",
 "STNR/S": "{#escape}{PLOVER:SHELL:autohotkey.exe C:\\~\\dev\\superhi\\LaunchToggle.ahk \"\\(SPHK\\) ahk_exe neovide.exe\" \"C:\\~\\dev\\superhi\\nvim\\sphk.ahk\"}",
 "STNR/N": "{#escape}{PLOVER:SHELL:autohotkey.exe C:\\~\\dev\\superhi\\LaunchToggle.ahk \"\\(Navi\\) ahk_exe neovide.exe\" \"C:\\~\\dev\\superhi\\nvim\\navi.ahk\"}",
 "STNR/O": "{#escape}{PLOVER:SHELL:autohotkey.exe C:\\~\\dev\\superhi\\LaunchToggle.ahk \"\\(OSU\\) ahk_exe neovide.exe\" \"C:\\~\\dev\\superhi\\nvim\\osu.ahk\"}",
